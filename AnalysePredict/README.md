@@ -4,9 +4,14 @@
 
 install the development version from GitHub:
 
-```bash
-pip install git+https://github.com/Analyse/AnalysePredict
+```Shell 
+pip install git+https://github.com/Team-18-JHB-Cohort/Analyse/AnalysePredict.git 
+
+cd \AnalysePredict
+
+python setup.py install
 ```
+
 ## Accompanying packages
 
 import numpy as np
